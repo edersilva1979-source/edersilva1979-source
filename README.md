@@ -329,7 +329,7 @@ Depois de mais de três décadas trabalhando com tecnologia, continuo estudando 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=edersilva1979-source&theme=darkhub&column=4&margin-w=10&margin-h=10">
+<img src="https://github.com/edersilva1979-source?tab=achievements&theme=darkhub&column=4&margin-w=10&margin-h=10">
 
 </div>
 

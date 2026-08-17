@@ -314,9 +314,9 @@ Depois de mais de três décadas trabalhando com tecnologia, continuo estudando 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=edersilva1979-source&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=github_dark">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edersilva1979-source&layout=compact&theme=github_dark">
 
 </div>
 
@@ -324,7 +324,7 @@ Depois de mais de três décadas trabalhando com tecnologia, continuo estudando 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&theme=github-dark-blue">
+<img src="https://streak-stats.demolab.com?user=edersilva1979-source&theme=github-dark-blue">
 
 </div>
 
@@ -332,7 +332,7 @@ Depois de mais de três décadas trabalhando com tecnologia, continuo estudando 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_GITHUB&theme=darkhub&column=4&margin-w=10&margin-h=10">
+<img src="https://github-profile-trophy.vercel.app/?username=edersilva1979-source&theme=darkhub&column=4&margin-w=10&margin-h=10">
 
 </div>
 
@@ -341,15 +341,15 @@ Depois de mais de três décadas trabalhando com tecnologia, continuo estudando 
 > Substitua os endereços abaixo pelos seus links reais.
 
 <p>
-<a href="https://github.com/SEU_USUARIO_GITHUB">
+<a href="https://github.com/edersilva1979-source">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="SEU_LINKEDIN">
+<a href="www.linkedin.com/in/eder-da-silva">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:eder.silva1979@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </p>

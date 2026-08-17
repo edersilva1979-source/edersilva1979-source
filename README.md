@@ -313,7 +313,6 @@ Depois de mais de três décadas trabalhando com tecnologia, continuo estudando 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=edersilva1979-source&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edersilva1979-source&layout=compact&theme=github_dark">
 
 </div>
@@ -335,8 +334,6 @@ Depois de mais de três décadas trabalhando com tecnologia, continuo estudando 
 </div>
 
 ## 🌎 Onde me encontrar
-
-> Substitua os endereços abaixo pelos seus links reais.
 
 <p>
 <a href="https://github.com/edersilva1979-source">
